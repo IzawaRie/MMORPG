@@ -1,0 +1,42 @@
+2023-05-07 18:57:36,886 [ 1] INFO  Unity: LoadingManager start
+2023-05-07 18:57:39,919 [ 1] INFO  Unity: DataManager > DataManager()
+2023-05-07 18:57:51,031 [ 1] INFO  Unity: UserLoginRequest::user :user002 psw:123
+2023-05-07 18:57:51,031 [ 1] INFO  Unity: ConnectToServer() Start 
+2023-05-07 18:57:51,033 [ 1] INFO  Unity: DoConnect
+2023-05-07 18:57:51,033 [ 1] INFO  Unity: NetClient.DoConnect on 127.0.0.1:8000
+2023-05-07 18:57:51,037 [ 1] INFO  Unity: Connect[0] to server 127.0.0.1:8000
+
+2023-05-07 18:57:51,046 [ 1] INFO  Unity: LoadingMesager::OnGameServerConnect :0 reason:Success
+2023-05-07 18:57:51,157 [ 1] INFO  Unity: OnUserRegister:Success [None]
+2023-05-07 18:57:51,157 [ 1] INFO  Unity: LoadLevel: CharSelect
+2023-05-07 18:57:51,234 [ 1] INFO  Unity: LevelLoadCompleted:1
+2023-05-07 18:57:52,105 [ 1] INFO  Unity: Select Char:[2]dada[Warrior]
+2023-05-07 18:57:52,795 [ 1] INFO  Unity: UserGameEnterRequest::characterId :0
+2023-05-07 18:57:52,814 [ 1] INFO  Unity: OnGameEnter:Success [None]
+2023-05-07 18:57:52,816 [ 1] INFO  Unity: ItemMnagaer:Init[Id:1,Count:20]
+2023-05-07 18:57:52,816 [ 1] INFO  Unity: ItemMnagaer:Init[Id:2,Count:20]
+2023-05-07 18:57:52,822 [ 1] INFO  Unity: OnMapCharacterEnter:Map:1 Count:1
+2023-05-07 18:57:52,823 [ 1] INFO  Unity: AddCharacter:2:dada Map:1 Entity:(7:pos:(5000,4000,820),dir:(100,0,0),spd:0
+2023-05-07 18:57:52,825 [ 1] INFO  Unity: LoadLevel: MainCity
+2023-05-07 18:57:53,076 [ 1] INFO  Unity: LevelLoadCompleted:1
+2023-05-07 18:57:53,083 [ 1] WARN  Unity: UIMinimap Start 17730
+
+2023-05-07 18:57:53,083 [ 1] WARN  Unity: MinimapManager.Instance.Minimap[17730] Set
+
+2023-05-07 18:58:22,617 [ 1] INFO  Unity: OnMapCharacterEnter:Map:1 Count:1
+2023-05-07 18:58:22,617 [ 1] INFO  Unity: AddCharacter:1:666 Map:1 Entity:(8:pos:(5000,4000,820),dir:(100,0,0),spd:0
+2023-05-07 18:58:47,437 [ 1] FATAL Unity: <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{0
+{1}</format><args>{NullReferenceException: Object reference not set to an instance of an object, UIMessageBox.Init (System.String title, System.String message, MessageBoxType type, System.String btnOK, System.String btnCancel) (at <409dd101e1a84e7ba44a06d09c9b6fb0>:0)
+MessageBox.Show (System.String message, System.String title, MessageBoxType type, System.String btnOK, System.String btnCancel) (at <409dd101e1a84e7ba44a06d09c9b6fb0>:0)
+FriendService.OnFriendAddRequest (System.Object sender, SkillBridge.Message.FriendAddRequest request) (at <409dd101e1a84e7ba44a06d09c9b6fb0>:0)
+Network.MessageDistributer`1[T].RaiseEvent[Tm] (T sender, Tm msg) (at <f095dfc99d5340e7ae8eaffe1cc8a80a>:0)
+Network.MessageDispatch`1[T].Dispatch (T sender, SkillBridge.Message.NetMessageResponse message) (at <f095dfc99d5340e7ae8eaffe1cc8a80a>:0)
+Network.MessageDistributer`1[T].Distribute () (at <f095dfc99d5340e7ae8eaffe1cc8a80a>:0)
+Network.NetClient.ProceeMessage () (at <409dd101e1a84e7ba44a06d09c9b6fb0>:0)
+Network.NetClient.Update () (at <409dd101e1a84e7ba44a06d09c9b6fb0>:0)
+}</args></log4net.Error>
+2023-05-07 18:59:00,798 [ 1] INFO  Unity: OnDestroy NetworkManager.
+2023-05-07 18:59:00,798 [ 1] WARN  Unity: CloseConnection(), errorCode: 1007
+
+2023-05-07 18:59:00,801 [ 1] INFO  Unity: Character_2_dada OnDestroy :ID:7 POS:(5000, 4000, 820) DIR:(100, 0, 0) SPD:0 
+2023-05-07 18:59:00,801 [ 1] INFO  Unity: Character_1_666 OnDestroy :ID:8 POS:(5000, 4000, 820) DIR:(100, 0, 0) SPD:0 
