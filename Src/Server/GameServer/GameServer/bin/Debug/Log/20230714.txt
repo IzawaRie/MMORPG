@@ -1,0 +1,80 @@
+
+2023-07-14 11:08:44,473 [1] [INFO ] [GameServer] ：Game Server Init
+2023-07-14 11:08:44,746 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2023-07-14 11:08:44,964 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:奥特兰
+2023-07-14 11:08:44,965 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:野外1
+2023-07-14 11:08:44,965 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2023-07-14 11:08:44,965 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2023-07-14 11:08:45,235 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-07-14 11:08:45,260 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-14 11:08:45,261 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-14 11:08:45,264 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-14 11:08:45,264 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-14 11:08:45,266 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-14 11:08:45,269 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-14 11:08:45,269 [20] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-14 11:08:45,271 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-14 11:08:45,344 [1] [WARN ] [GameServer] ：NetService Started
+2023-07-14 11:08:45,426 [3] [WARN ] [GameServer] ：Client[127.0.0.1:49779]] Connected
+2023-07-14 11:08:45,474 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:22
+2023-07-14 11:08:45,564 [8] [INFO ] [GameServer] ：UserLoginRequest: User:user001  Pass:123
+2023-07-14 11:09:01,034 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2023-07-14 11:09:01,036 [8] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:666 Map:1
+2023-07-14 11:09:01,127 [8] [INFO ] [GameServer] ：PostProcess > Character:characterID:1:666
+2023-07-14 11:09:01,128 [8] [INFO ] [GameServer] ：PostProcess > Guild:chracterID:1:666 0<1689304125
+2023-07-14 11:09:01,164 [8] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2023-07-14 11:09:01,164 [8] [INFO ] [GameServer] ：PostProcess > Character:characterID:1:666
+2023-07-14 11:09:01,164 [8] [INFO ] [GameServer] ：PostProcess > Guild:chracterID:1:666 1689304125<1689304125
+2023-07-14 11:09:08,251 [22] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2023-07-14 11:09:08,253 [8] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:1:666 Map:1
+2023-07-14 11:09:08,253 [8] [INFO ] [GameServer] ：CharacterLeave:characterID:1:666
+2023-07-14 11:09:08,254 [8] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2023-07-14 11:09:08,255 [8] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:666 :Map:1 Character:1:666
+2023-07-14 11:09:08,255 [8] [INFO ] [GameServer] ：PostProcess > Character:characterID:1:666
+2023-07-14 11:09:08,255 [8] [INFO ] [GameServer] ：PostProcess>FriendManager:characterID:1:666
+2023-07-14 11:09:08,255 [8] [INFO ] [GameServer] ：PostProcess > Guild:chracterID:1:666 1689304125<1689304125
+2023-07-14 11:09:08,256 [8] [INFO ] [GameServer] ：PostProcess > Character:characterID:1:666
+2023-07-14 11:09:08,256 [8] [INFO ] [GameServer] ：PostProcess > Guild:chracterID:1:666 1689304125<1689304125
+2023-07-14 11:09:10,021 [22] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2023-07-14 11:09:10,022 [9] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:666 Map:1
+2023-07-14 11:09:10,022 [9] [INFO ] [GameServer] ：PostProcess > Character:characterID:1:666
+2023-07-14 11:09:10,022 [9] [INFO ] [GameServer] ：PostProcess > Guild:chracterID:1:666 0<1689304125
+2023-07-14 11:09:10,022 [9] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2023-07-14 11:09:10,022 [9] [INFO ] [GameServer] ：PostProcess > Character:characterID:1:666
+2023-07-14 11:09:10,023 [9] [INFO ] [GameServer] ：PostProcess > Guild:chracterID:1:666 1689304125<1689304125
+2023-07-14 11:09:30,863 [22] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2023-07-14 11:09:30,863 [8] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:1:666 Map:1
+2023-07-14 11:09:30,863 [8] [INFO ] [GameServer] ：CharacterLeave:characterID:1:666
+2023-07-14 11:09:30,863 [8] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2023-07-14 11:09:30,863 [8] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:666 :Map:1 Character:1:666
+2023-07-14 11:09:30,864 [8] [INFO ] [GameServer] ：PostProcess > Character:characterID:1:666
+2023-07-14 11:09:30,864 [8] [INFO ] [GameServer] ：PostProcess>FriendManager:characterID:1:666
+2023-07-14 11:09:30,864 [8] [INFO ] [GameServer] ：PostProcess > Guild:chracterID:1:666 1689304125<1689304125
+2023-07-14 11:09:30,864 [8] [INFO ] [GameServer] ：PostProcess > Character:characterID:1:666
+2023-07-14 11:09:30,864 [8] [INFO ] [GameServer] ：PostProcess > Guild:chracterID:1:666 1689304125<1689304125
+2023-07-14 11:09:42,209 [18] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2023-07-14 11:09:42,209 [8] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:666 Map:1
+2023-07-14 11:09:42,210 [8] [INFO ] [GameServer] ：PostProcess > Character:characterID:1:666
+2023-07-14 11:09:42,210 [8] [INFO ] [GameServer] ：PostProcess > Guild:chracterID:1:666 0<1689304125
+2023-07-14 11:09:42,210 [8] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2023-07-14 11:09:42,210 [8] [INFO ] [GameServer] ：PostProcess > Character:characterID:1:666
+2023-07-14 11:09:42,210 [8] [INFO ] [GameServer] ：PostProcess > Guild:chracterID:1:666 1689304125<1689304125
+2023-07-14 11:09:45,380 [5] [INFO ] [GameServer] ：Map[2]Spawn[1]:Mon:1001,Lv:1 At Point:1
+2023-07-14 11:09:45,381 [5] [INFO ] [GameServer] ：MonsterEnter:Map2 monsterId:0
+2023-07-14 11:09:45,381 [5] [INFO ] [GameServer] ：Map[2]Spawn[2]:Mon:1002,Lv:1 At Point:2
+2023-07-14 11:09:45,382 [5] [INFO ] [GameServer] ：MonsterEnter:Map2 monsterId:0
+2023-07-14 11:09:45,382 [5] [INFO ] [GameServer] ：Map[2]Spawn[3]:Mon:1003,Lv:1 At Point:3
+2023-07-14 11:09:45,382 [5] [INFO ] [GameServer] ：MonsterEnter:Map2 monsterId:0
+2023-07-14 11:09:45,382 [5] [INFO ] [GameServer] ：Map[2]Spawn[4]:Mon:1005,Lv:1 At Point:4
+2023-07-14 11:09:45,382 [5] [INFO ] [GameServer] ：MonsterEnter:Map2 monsterId:0
+2023-07-14 11:09:50,313 [18] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2023-07-14 11:09:50,313 [8] [INFO ] [GameServer] ：UserGameLeaveRequest: characterID:1:666 Map:1
+2023-07-14 11:09:50,313 [8] [INFO ] [GameServer] ：CharacterLeave:characterID:1:666
+2023-07-14 11:09:50,313 [8] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2023-07-14 11:09:50,313 [8] [INFO ] [GameServer] ：SendCharacterLeaveMap To 1:666 :Map:1 Character:1:666
+2023-07-14 11:09:50,314 [8] [INFO ] [GameServer] ：PostProcess > Character:characterID:1:666
+2023-07-14 11:09:50,314 [8] [INFO ] [GameServer] ：PostProcess>FriendManager:characterID:1:666
+2023-07-14 11:09:50,314 [8] [INFO ] [GameServer] ：PostProcess > Guild:chracterID:1:666 1689304125<1689304125
+2023-07-14 11:09:50,314 [8] [INFO ] [GameServer] ：PostProcess > Character:characterID:1:666
+2023-07-14 11:09:50,314 [8] [INFO ] [GameServer] ：PostProcess > Guild:chracterID:1:666 1689304125<1689304125
+2023-07-14 11:09:57,810 [21] [INFO ] [GameServer] ：CharacterLeave:characterID:1:666

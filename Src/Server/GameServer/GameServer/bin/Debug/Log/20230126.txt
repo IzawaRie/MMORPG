@@ -1,0 +1,171 @@
+
+2023-01-26 00:00:27,339 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-01-26 00:00:27,419 [1] [INFO ] [GameServer] £ºDataManager > DataManager()
+2023-01-26 00:00:27,552 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:1:°ÂÌØÀ¼
+2023-01-26 00:00:27,554 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:2:Ò°Íâ1
+2023-01-26 00:00:27,554 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:3:Ò°Íâ2
+2023-01-26 00:00:27,554 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:4:¸±±¾1
+2023-01-26 00:00:27,555 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-01-26 00:00:27,627 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:00:27,627 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:00:27,628 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:00:27,628 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:00:27,628 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:00:27,628 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:00:27,628 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:00:27,629 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:00:27,729 [1] [WARN ] [GameServer] £ºNetService Started
+2023-01-26 00:00:40,701 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:56031]] Connected
+2023-01-26 00:00:40,749 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-26 00:00:40,833 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-26 00:00:44,897 [21] [WARN ] [GameServer] £ºClient[] DataReceived Len:10
+2023-01-26 00:00:44,900 [5] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:5:ßÕßÕßÕ°¡°¡ Map:1
+2023-01-26 00:00:44,903 [5] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:1
+2023-01-26 00:00:46,556 [21] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:00:46,559 [6] [INFO ] [GameServer] £ºUserGameLeaveRequest: characterID:5:ßÕßÕßÕ°¡°¡ Map:1
+2023-01-26 00:00:46,560 [6] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:1
+2023-01-26 00:03:13,052 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-01-26 00:03:13,137 [1] [INFO ] [GameServer] £ºDataManager > DataManager()
+2023-01-26 00:03:13,310 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:1:°ÂÌØÀ¼
+2023-01-26 00:03:13,312 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:2:Ò°Íâ1
+2023-01-26 00:03:13,312 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:3:Ò°Íâ2
+2023-01-26 00:03:13,313 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:4:¸±±¾1
+2023-01-26 00:03:13,313 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-01-26 00:03:13,346 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:03:13,347 [15] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:03:13,347 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:03:13,347 [20] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:03:13,347 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:03:13,347 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:03:13,368 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:03:13,368 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:03:13,446 [1] [WARN ] [GameServer] £ºNetService Started
+2023-01-26 00:03:30,821 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:56072]] Connected
+2023-01-26 00:03:30,872 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-26 00:03:30,955 [6] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-26 00:03:33,412 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:03:33,415 [6] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:1:°¡´ó°¡ Map:1
+2023-01-26 00:03:33,418 [6] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:1
+2023-01-26 00:03:39,252 [3] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-26 00:29:10,301 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-01-26 00:29:10,383 [1] [INFO ] [GameServer] £ºDataManager > DataManager()
+2023-01-26 00:29:10,501 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:1:°ÂÌØÀ¼
+2023-01-26 00:29:10,503 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:2:Ò°Íâ1
+2023-01-26 00:29:10,503 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:3:Ò°Íâ2
+2023-01-26 00:29:10,503 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:4:¸±±¾1
+2023-01-26 00:29:10,504 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-01-26 00:29:10,520 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:29:10,520 [17] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:29:10,520 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:29:10,521 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:29:10,521 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:29:10,521 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:29:10,521 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:29:10,522 [16] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:29:10,608 [1] [WARN ] [GameServer] £ºNetService Started
+2023-01-26 00:29:27,126 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:56864]] Connected
+2023-01-26 00:29:27,175 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-26 00:29:27,254 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-26 00:29:31,566 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:10
+2023-01-26 00:29:31,568 [5] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:5:ßÕßÕßÕ°¡°¡ Map:1
+2023-01-26 00:29:31,572 [5] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:1
+2023-01-26 00:29:33,450 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:29:33,453 [6] [INFO ] [GameServer] £ºUserGameLeaveRequest: characterID:5:ßÕßÕßÕ°¡°¡ Map:1
+2023-01-26 00:29:33,453 [6] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:1
+2023-01-26 00:29:42,668 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:29:42,668 [5] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:1:°¡´ó°¡ Map:1
+2023-01-26 00:29:42,668 [5] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:2
+2023-01-26 00:30:17,791 [21] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:30:17,792 [5] [INFO ] [GameServer] £ºUserGameLeaveRequest: characterID:1:°¡´ó°¡ Map:1
+2023-01-26 00:30:17,792 [5] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:2
+2023-01-26 00:30:30,792 [21] [WARN ] [GameServer] £ºClient[] DataReceived Len:10
+2023-01-26 00:30:30,792 [6] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:2:dada Map:1
+2023-01-26 00:30:30,793 [6] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:3
+2023-01-26 00:31:18,357 [21] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:31:18,358 [5] [INFO ] [GameServer] £ºUserGameLeaveRequest: characterID:2:dada Map:1
+2023-01-26 00:31:18,358 [5] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:3
+2023-01-26 00:31:26,583 [21] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:31:26,583 [5] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:1:°¡´ó°¡ Map:1
+2023-01-26 00:31:26,584 [5] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:4
+2023-01-26 00:32:34,917 [21] [WARN ] [GameServer] £ºClient[] DataReceived Len:10
+2023-01-26 00:32:34,918 [6] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:4:3133 Map:1
+2023-01-26 00:32:34,918 [6] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:5
+2023-01-26 00:32:55,158 [21] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-26 00:33:16,985 [9] [WARN ] [GameServer] £ºClient[127.0.0.1:56914]] Connected
+2023-01-26 00:33:17,352 [9] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-26 00:33:17,352 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-26 00:33:31,527 [9] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:33:31,527 [5] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:1:°¡´ó°¡ Map:1
+2023-01-26 00:33:31,528 [5] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:6
+2023-01-26 00:36:53,747 [9] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:36:53,748 [5] [INFO ] [GameServer] £ºUserGameLeaveRequest: characterID:1:°¡´ó°¡ Map:1
+2023-01-26 00:36:53,748 [5] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:6
+2023-01-26 00:37:28,833 [9] [WARN ] [GameServer] £ºClient[] DataReceived Len:10
+2023-01-26 00:37:28,834 [5] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:2:dada Map:1
+2023-01-26 00:37:28,834 [5] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:7
+2023-01-26 00:40:15,809 [9] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:40:15,810 [5] [INFO ] [GameServer] £ºUserGameLeaveRequest: characterID:2:dada Map:1
+2023-01-26 00:40:15,810 [5] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:7
+2023-01-26 00:40:38,455 [9] [WARN ] [GameServer] £ºClient[] DataReceived Len:10
+2023-01-26 00:40:38,455 [5] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:3:°¡´ó´ó´ó Map:1
+2023-01-26 00:40:38,456 [5] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:8
+2023-01-26 00:46:02,800 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-01-26 00:46:02,891 [1] [INFO ] [GameServer] £ºDataManager > DataManager()
+2023-01-26 00:46:03,025 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:1:°ÂÌØÀ¼
+2023-01-26 00:46:03,028 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:2:Ò°Íâ1
+2023-01-26 00:46:03,029 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:3:Ò°Íâ2
+2023-01-26 00:46:03,029 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:4:¸±±¾1
+2023-01-26 00:46:03,029 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-01-26 00:46:03,096 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:46:03,096 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:46:03,096 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:46:03,096 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:46:03,096 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:46:03,096 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:46:03,097 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:46:03,096 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-26 00:46:03,139 [1] [WARN ] [GameServer] £ºNetService Started
+2023-01-26 00:46:13,151 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:57141]] Connected
+2023-01-26 00:46:13,202 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-26 00:46:13,284 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-26 00:46:16,907 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:10
+2023-01-26 00:46:16,909 [5] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:3:°¡´ó´ó´ó Map:1
+2023-01-26 00:46:16,913 [5] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:1
+2023-01-26 00:47:06,646 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:57177]] Connected
+2023-01-26 00:47:06,706 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:27
+2023-01-26 00:47:06,707 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:user001  Pass:huang123
+2023-01-26 00:47:08,510 [21] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:47:08,510 [5] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:10:666 Map:1
+2023-01-26 00:47:08,511 [5] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:2
+2023-01-26 00:47:40,758 [14] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:47:40,759 [5] [INFO ] [GameServer] £ºUserGameLeaveRequest: characterID:3:°¡´ó´ó´ó Map:1
+2023-01-26 00:47:40,760 [5] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:1
+2023-01-26 00:47:57,865 [15] [WARN ] [GameServer] £ºClient[] DataReceived Len:10
+2023-01-26 00:47:57,865 [5] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:4:3133 Map:1
+2023-01-26 00:47:57,865 [5] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:3
+2023-01-26 00:49:24,972 [15] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:49:24,973 [5] [INFO ] [GameServer] £ºUserGameLeaveRequest: characterID:4:3133 Map:1
+2023-01-26 00:49:24,973 [5] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:3
+2023-01-26 00:49:33,153 [15] [WARN ] [GameServer] £ºClient[] DataReceived Len:10
+2023-01-26 00:49:33,153 [6] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:5:ßÕßÕßÕ°¡°¡ Map:1
+2023-01-26 00:49:33,154 [6] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:4
+2023-01-26 00:50:03,341 [15] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:50:03,341 [5] [INFO ] [GameServer] £ºUserGameLeaveRequest: characterID:10:666 Map:1
+2023-01-26 00:50:03,342 [5] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:2
+2023-01-26 00:50:08,332 [13] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:50:08,333 [5] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:10:666 Map:1
+2023-01-26 00:50:08,333 [5] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:5
+2023-01-26 00:50:53,189 [13] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:50:53,189 [5] [INFO ] [GameServer] £ºUserGameLeaveRequest: characterID:5:ßÕßÕßÕ°¡°¡ Map:1
+2023-01-26 00:50:53,189 [5] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:4
+2023-01-26 00:51:03,769 [13] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:51:03,769 [5] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:1:°¡´ó°¡ Map:1
+2023-01-26 00:51:03,770 [5] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:6
+2023-01-26 00:51:35,826 [16] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:51:35,827 [5] [INFO ] [GameServer] £ºUserGameLeaveRequest: characterID:10:666 Map:1
+2023-01-26 00:51:35,827 [5] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:5
+2023-01-26 00:51:38,542 [24] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2023-01-26 00:51:38,542 [5] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:10:666 Map:1
+2023-01-26 00:51:38,543 [5] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:7
+2023-01-26 00:53:28,538 [24] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-26 00:53:36,781 [28] [WARN ] [GameServer] £ºClient[] Disconnected

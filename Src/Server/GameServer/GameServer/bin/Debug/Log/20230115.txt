@@ -1,0 +1,308 @@
+
+2023-01-15 13:24:32,693 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-01-15 13:24:32,949 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-01-15 13:24:33,009 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 13:24:33,010 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 13:24:33,010 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 13:24:33,010 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 13:24:33,010 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 13:24:33,010 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 13:24:33,010 [15] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 13:24:33,010 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 13:24:33,117 [1] [WARN ] [GameServer] £ºNetService Started
+2023-01-15 13:27:01,539 [5] [WARN ] [GameServer] £ºClient[127.0.0.1:53358]] Connected
+2023-01-15 13:27:01,587 [5] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:27:01,669 [7] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:27:40,178 [17] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 13:28:33,849 [17] [WARN ] [GameServer] £ºClient[127.0.0.1:53392]] Connected
+2023-01-15 13:28:33,903 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:28:33,904 [7] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:31:51,492 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:31:51,493 [7] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:31:52,052 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:31:52,052 [7] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:34:26,755 [17] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 13:34:43,999 [24] [WARN ] [GameServer] £ºClient[127.0.0.1:53449]] Connected
+2023-01-15 13:34:44,046 [26] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:34:44,047 [7] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:34:48,030 [27] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 13:37:16,780 [27] [WARN ] [GameServer] £ºClient[127.0.0.1:53494]] Connected
+2023-01-15 13:37:16,827 [27] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:37:16,827 [7] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:37:43,669 [27] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:37:43,670 [7] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:37:44,590 [27] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:37:44,591 [8] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:37:44,977 [35] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:37:44,977 [7] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:37:45,166 [27] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:37:45,167 [8] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:37:45,388 [35] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:37:45,389 [7] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:37:45,611 [27] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:37:45,612 [8] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:37:45,932 [27] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:37:45,933 [7] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:37:46,253 [27] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:37:46,254 [8] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:38:11,542 [27] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 13:38:32,587 [27] [WARN ] [GameServer] £ºClient[127.0.0.1:53504]] Connected
+2023-01-15 13:38:32,637 [27] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:38:32,637 [7] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:38:36,760 [39] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 13:53:16,883 [39] [WARN ] [GameServer] £ºClient[127.0.0.1:53976]] Connected
+2023-01-15 13:53:16,930 [39] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 13:53:16,931 [7] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 13:53:19,212 [67] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 14:36:34,659 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-01-15 14:36:35,096 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-01-15 14:36:35,166 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 14:36:35,166 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 14:36:35,166 [14] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 14:36:35,166 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 14:36:35,166 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 14:36:35,166 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 14:36:35,166 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 14:36:35,167 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 14:36:35,209 [1] [WARN ] [GameServer] £ºNetService Started
+2023-01-15 14:37:09,931 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:55052]] Connected
+2023-01-15 14:37:09,977 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 14:37:10,057 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 14:41:38,215 [3] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 14:45:46,469 [15] [WARN ] [GameServer] £ºClient[127.0.0.1:55153]] Connected
+2023-01-15 14:45:46,516 [15] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 14:45:46,516 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 14:46:16,285 [15] [WARN ] [GameServer] £ºClient[] DataReceived Len:19
+2023-01-15 14:46:16,287 [5] [INFO ] [GameServer] £ºOnCreateCharacterRequest: Name:°¡´ó°¡  Class:None
+2023-01-15 14:47:31,077 [15] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 14:48:19,742 [29] [WARN ] [GameServer] £ºClient[127.0.0.1:55180]] Connected
+2023-01-15 14:48:19,790 [29] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 14:48:19,790 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 14:48:28,473 [29] [WARN ] [GameServer] £ºClient[] DataReceived Len:16
+2023-01-15 14:48:28,474 [5] [INFO ] [GameServer] £ºOnCreateCharacterRequest: Name:dada  Class:Archer
+2023-01-15 14:48:48,416 [29] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 14:49:38,474 [34] [WARN ] [GameServer] £ºClient[127.0.0.1:55205]] Connected
+2023-01-15 14:49:38,520 [34] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 14:49:38,521 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 14:49:52,041 [34] [WARN ] [GameServer] £ºClient[] DataReceived Len:24
+2023-01-15 14:49:52,042 [5] [INFO ] [GameServer] £ºOnCreateCharacterRequest: Name:°¡´ó´ó´ó  Class:Archer
+2023-01-15 14:50:33,749 [34] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 15:03:28,485 [34] [WARN ] [GameServer] £ºClient[127.0.0.1:55500]] Connected
+2023-01-15 15:03:28,533 [34] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:03:28,533 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:03:40,221 [34] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 15:04:11,164 [34] [WARN ] [GameServer] £ºClient[127.0.0.1:55510]] Connected
+2023-01-15 15:04:11,214 [34] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:04:11,214 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:05:09,495 [34] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 15:05:27,338 [34] [WARN ] [GameServer] £ºClient[127.0.0.1:55524]] Connected
+2023-01-15 15:05:27,386 [34] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:05:27,387 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:05:47,330 [34] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 15:07:57,972 [69] [WARN ] [GameServer] £ºClient[127.0.0.1:55567]] Connected
+2023-01-15 15:07:58,020 [76] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:07:58,020 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:08:01,854 [69] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 15:12:01,114 [69] [WARN ] [GameServer] £ºClient[127.0.0.1:55722]] Connected
+2023-01-15 15:12:01,164 [69] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:12:01,164 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:14:09,417 [86] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 15:15:00,311 [86] [WARN ] [GameServer] £ºClient[127.0.0.1:55817]] Connected
+2023-01-15 15:15:00,360 [86] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:15:00,361 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:15:10,525 [23] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 15:15:41,722 [23] [WARN ] [GameServer] £ºClient[127.0.0.1:55841]] Connected
+2023-01-15 15:15:41,770 [23] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:15:41,770 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:17:37,809 [23] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 15:18:35,653 [18] [WARN ] [GameServer] £ºClient[127.0.0.1:55959]] Connected
+2023-01-15 15:18:35,704 [15] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:18:35,704 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:22:20,099 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-01-15 15:22:20,181 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-01-15 15:22:20,246 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:22:20,246 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:22:20,246 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:22:20,246 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:22:20,246 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:22:20,246 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:22:20,246 [14] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:22:20,246 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:22:20,355 [1] [WARN ] [GameServer] £ºNetService Started
+2023-01-15 15:22:41,023 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:56112]] Connected
+2023-01-15 15:22:41,069 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:22:41,147 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:32:05,477 [11] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 15:32:36,535 [11] [WARN ] [GameServer] £ºClient[127.0.0.1:56437]] Connected
+2023-01-15 15:32:36,584 [11] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:32:36,584 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:34:07,880 [29] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 15:35:20,104 [29] [WARN ] [GameServer] £ºClient[127.0.0.1:56531]] Connected
+2023-01-15 15:35:20,153 [29] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:35:20,153 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:39:33,347 [35] [WARN ] [GameServer] £ºClient[127.0.0.1:56764]] Connected
+2023-01-15 15:39:33,402 [35] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:39:33,402 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:39:37,611 [35] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 15:43:45,557 [35] [WARN ] [GameServer] £ºClient[127.0.0.1:56938]] Connected
+2023-01-15 15:43:45,609 [35] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:43:45,609 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:53:44,445 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-01-15 15:53:44,526 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-01-15 15:53:44,544 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:53:44,545 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:53:44,545 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:53:44,545 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:53:44,546 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:53:44,546 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:53:44,546 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:53:44,546 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 15:53:44,646 [1] [WARN ] [GameServer] £ºNetService Started
+2023-01-15 15:54:05,621 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:57132]] Connected
+2023-01-15 15:54:05,667 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:54:05,747 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:57:19,680 [3] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 15:58:21,812 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:57249]] Connected
+2023-01-15 15:58:21,863 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:58:21,864 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:58:35,022 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:57255]] Connected
+2023-01-15 15:58:35,074 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:29
+2023-01-15 15:58:35,075 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:194436169  Pass:huang123
+2023-01-15 15:58:40,628 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:29
+2023-01-15 15:58:40,629 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:194436169  Pass:huang123
+2023-01-15 15:58:50,073 [16] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 15:58:50,074 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 15:59:21,172 [16] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 16:00:16,378 [19] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 16:02:05,366 [22] [WARN ] [GameServer] £ºClient[127.0.0.1:57368]] Connected
+2023-01-15 16:02:05,411 [22] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 16:02:05,412 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 16:02:15,557 [22] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 16:04:19,542 [22] [WARN ] [GameServer] £ºClient[127.0.0.1:57475]] Connected
+2023-01-15 16:04:19,590 [22] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 16:04:19,591 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 16:05:34,101 [22] [WARN ] [GameServer] £ºClient[] DataReceived Len:16
+2023-01-15 16:05:34,103 [5] [INFO ] [GameServer] £ºUserCreateCharacterRequest: Name:3133  Class:Wizard
+2023-01-15 16:05:44,484 [34] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 16:05:58,470 [34] [WARN ] [GameServer] £ºClient[127.0.0.1:57494]] Connected
+2023-01-15 16:05:58,518 [34] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 16:05:58,518 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 16:06:21,960 [36] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 16:07:02,766 [37] [WARN ] [GameServer] £ºClient[127.0.0.1:57523]] Connected
+2023-01-15 16:07:02,815 [42] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 16:07:02,816 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 16:07:16,946 [37] [WARN ] [GameServer] £ºClient[] DataReceived Len:27
+2023-01-15 16:07:16,946 [5] [INFO ] [GameServer] £ºUserCreateCharacterRequest: Name:ßÕßÕßÕ°¡°¡  Class:Warrior
+2023-01-15 16:07:26,635 [43] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 16:08:04,725 [43] [WARN ] [GameServer] £ºClient[127.0.0.1:57537]] Connected
+2023-01-15 16:08:04,773 [43] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 16:08:04,773 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 16:11:33,151 [43] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 16:11:54,186 [43] [WARN ] [GameServer] £ºClient[127.0.0.1:57578]] Connected
+2023-01-15 16:11:54,235 [43] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 16:11:54,236 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huanh123
+2023-01-15 16:12:00,389 [43] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 16:12:00,390 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 16:12:57,650 [43] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 16:17:38,199 [43] [WARN ] [GameServer] £ºClient[127.0.0.1:57760]] Connected
+2023-01-15 16:17:38,249 [43] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 16:17:38,250 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 16:17:57,480 [43] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:19:32,217 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-01-15 20:19:32,294 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-01-15 20:19:32,330 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:19:32,331 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:19:32,331 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:19:32,331 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:19:32,331 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:19:32,331 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:19:32,331 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:19:32,332 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:19:32,435 [1] [WARN ] [GameServer] £ºNetService Started
+2023-01-15 20:20:10,741 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:60148]] Connected
+2023-01-15 20:20:10,786 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 20:20:10,867 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 20:20:49,207 [3] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:21:25,477 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:60169]] Connected
+2023-01-15 20:21:25,526 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:25
+2023-01-15 20:21:25,527 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:user123  Pass:313131
+2023-01-15 20:21:36,546 [18] [WARN ] [GameServer] £ºClient[] DataReceived Len:21
+2023-01-15 20:21:36,548 [5] [INFO ] [GameServer] £ºUserCreateCharacterRequest: Name:°£¶Å°¢  Class:Warrior
+2023-01-15 20:21:40,715 [18] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:21:54,842 [18] [WARN ] [GameServer] £ºClient[127.0.0.1:60178]] Connected
+2023-01-15 20:21:54,889 [18] [WARN ] [GameServer] £ºClient[] DataReceived Len:25
+2023-01-15 20:21:54,890 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:user123  Pass:313131
+2023-01-15 20:22:18,127 [18] [WARN ] [GameServer] £ºClient[] DataReceived Len:21
+2023-01-15 20:22:18,128 [5] [INFO ] [GameServer] £ºUserCreateCharacterRequest: Name:»ý·ûºÅ  Class:Archer
+2023-01-15 20:22:27,853 [15] [WARN ] [GameServer] £ºClient[] DataReceived Len:21
+2023-01-15 20:22:27,854 [5] [INFO ] [GameServer] £ºUserCreateCharacterRequest: Name:»¹µÃ¿Î  Class:Wizard
+2023-01-15 20:22:33,840 [15] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:22:52,952 [16] [WARN ] [GameServer] £ºClient[127.0.0.1:60189]] Connected
+2023-01-15 20:22:53,001 [19] [WARN ] [GameServer] £ºClient[] DataReceived Len:25
+2023-01-15 20:22:53,001 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:user123  Pass:313131
+2023-01-15 20:23:03,057 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:21
+2023-01-15 20:23:03,057 [5] [INFO ] [GameServer] £ºUserCreateCharacterRequest: Name:313131111  Class:Archer
+2023-01-15 20:23:04,701 [16] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:23:21,623 [16] [WARN ] [GameServer] £ºClient[127.0.0.1:60194]] Connected
+2023-01-15 20:23:21,672 [16] [WARN ] [GameServer] £ºClient[] DataReceived Len:25
+2023-01-15 20:23:21,672 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:user123  Pass:313131
+2023-01-15 20:23:43,582 [16] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:26:54,601 [21] [WARN ] [GameServer] £ºClient[127.0.0.1:60296]] Connected
+2023-01-15 20:26:54,647 [21] [WARN ] [GameServer] £ºClient[] DataReceived Len:25
+2023-01-15 20:26:54,647 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:user123  Pass:313131
+2023-01-15 20:26:58,239 [21] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:29:30,761 [21] [WARN ] [GameServer] £ºClient[127.0.0.1:60364]] Connected
+2023-01-15 20:29:30,810 [21] [WARN ] [GameServer] £ºClient[] DataReceived Len:25
+2023-01-15 20:29:30,810 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:user123  Pass:313131
+2023-01-15 20:31:35,221 [21] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:36:27,941 [21] [WARN ] [GameServer] £ºClient[127.0.0.1:60530]] Connected
+2023-01-15 20:36:27,989 [21] [WARN ] [GameServer] £ºClient[] DataReceived Len:25
+2023-01-15 20:36:27,989 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:user123  Pass:313131
+2023-01-15 20:36:59,714 [49] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:38:45,175 [48] [WARN ] [GameServer] £ºClient[127.0.0.1:60579]] Connected
+2023-01-15 20:38:45,230 [56] [WARN ] [GameServer] £ºClient[] DataReceived Len:25
+2023-01-15 20:38:45,231 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:user123  Pass:313131
+2023-01-15 20:39:18,888 [48] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:39:55,402 [48] [WARN ] [GameServer] £ºClient[127.0.0.1:60603]] Connected
+2023-01-15 20:39:55,450 [48] [WARN ] [GameServer] £ºClient[] DataReceived Len:25
+2023-01-15 20:39:55,451 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:user123  Pass:313131
+2023-01-15 20:40:15,605 [48] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:40:35,713 [48] [WARN ] [GameServer] £ºClient[127.0.0.1:60613]] Connected
+2023-01-15 20:40:35,765 [61] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 20:40:35,766 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 20:43:06,685 [48] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:43:21,463 [48] [WARN ] [GameServer] £ºClient[127.0.0.1:60679]] Connected
+2023-01-15 20:43:21,511 [48] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 20:43:21,512 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 20:44:07,383 [65] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:44:48,058 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-01-15 20:44:48,138 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-01-15 20:44:48,183 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:44:48,184 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:44:48,184 [15] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:44:48,184 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:44:48,184 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:44:48,185 [18] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:44:48,213 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:44:48,213 [16] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-01-15 20:44:48,276 [1] [WARN ] [GameServer] £ºNetService Started
+2023-01-15 20:45:06,624 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:60755]] Connected
+2023-01-15 20:45:06,676 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 20:45:06,761 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 20:47:27,777 [21] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:50:33,563 [13] [WARN ] [GameServer] £ºClient[127.0.0.1:60861]] Connected
+2023-01-15 20:50:33,610 [11] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 20:50:33,611 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 20:53:00,950 [11] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:53:39,261 [11] [WARN ] [GameServer] £ºClient[127.0.0.1:60899]] Connected
+2023-01-15 20:53:39,317 [11] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 20:53:39,317 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 20:54:56,202 [11] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:56:04,385 [11] [WARN ] [GameServer] £ºClient[127.0.0.1:60940]] Connected
+2023-01-15 20:56:04,434 [11] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 20:56:04,434 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 20:56:42,321 [11] [WARN ] [GameServer] £ºClient[] Disconnected
+2023-01-15 20:57:18,086 [35] [WARN ] [GameServer] £ºClient[127.0.0.1:60955]] Connected
+2023-01-15 20:57:18,132 [35] [WARN ] [GameServer] £ºClient[] DataReceived Len:30
+2023-01-15 20:57:18,133 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:1944366169  Pass:huang123
+2023-01-15 20:57:55,102 [37] [WARN ] [GameServer] £ºClient[] Disconnected

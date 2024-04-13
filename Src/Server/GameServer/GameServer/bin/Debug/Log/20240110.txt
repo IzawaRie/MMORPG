@@ -1,0 +1,35 @@
+
+2024-01-10 17:35:44,818 [1] [INFO ] [GameServer] ：Game Server Init
+2024-01-10 17:35:45,704 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-01-10 17:40:03,855 [1] [INFO ] [GameServer] ：Game Server Init
+2024-01-10 17:40:03,932 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-01-10 17:40:04,072 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2024-01-10 17:40:04,074 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2024-01-10 17:40:04,074 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2024-01-10 17:40:04,074 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2024-01-10 17:40:04,510 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-01-10 17:40:04,545 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 17:40:04,546 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 17:40:04,546 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 17:40:04,547 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 17:40:04,547 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 17:40:04,547 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 17:40:04,547 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 17:40:04,548 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 17:40:04,619 [1] [WARN ] [GameServer] ：NetService Started
+2024-01-10 23:28:25,935 [1] [INFO ] [GameServer] ：Game Server Init
+2024-01-10 23:28:26,368 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-01-10 23:28:26,670 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2024-01-10 23:28:26,671 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2024-01-10 23:28:26,671 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2024-01-10 23:28:26,671 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2024-01-10 23:28:27,019 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-01-10 23:28:27,045 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 23:28:27,045 [17] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 23:28:27,046 [18] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 23:28:27,046 [16] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 23:28:27,046 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 23:28:27,047 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 23:28:27,048 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 23:28:27,052 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-01-10 23:28:27,126 [1] [WARN ] [GameServer] ：NetService Started

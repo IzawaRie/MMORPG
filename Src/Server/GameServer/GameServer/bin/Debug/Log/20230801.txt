@@ -1,0 +1,33 @@
+
+2023-08-01 20:50:58,239 [1] [INFO ] [GameServer] ：Game Server Init
+2023-08-01 20:50:58,478 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2023-08-01 20:50:58,649 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:奥特兰
+2023-08-01 20:50:58,651 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:野外1
+2023-08-01 20:50:58,651 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2023-08-01 20:50:58,651 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2023-08-01 20:50:59,672 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-08-01 20:50:59,704 [16] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 20:50:59,704 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 20:50:59,704 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 20:50:59,704 [17] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 20:50:59,704 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 20:50:59,708 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 20:50:59,713 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 20:50:59,713 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 20:50:59,784 [1] [WARN ] [GameServer] ：NetService Started
+2023-08-01 22:01:21,332 [1] [INFO ] [GameServer] ：Game Server Init
+2023-08-01 22:01:21,544 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2023-08-01 22:01:21,799 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:奥特兰
+2023-08-01 22:01:21,801 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:野外1
+2023-08-01 22:01:21,801 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2023-08-01 22:01:21,801 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2023-08-01 22:01:22,067 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-08-01 22:01:22,138 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 22:01:22,138 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 22:01:22,138 [17] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 22:01:22,140 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 22:01:22,141 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 22:01:22,141 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 22:01:22,141 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 22:01:22,142 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-01 22:01:22,180 [1] [WARN ] [GameServer] ：NetService Started

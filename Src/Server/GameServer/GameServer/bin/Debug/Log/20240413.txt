@@ -1,0 +1,463 @@
+
+2024-04-13 15:44:12,338 [1] [INFO ] [GameServer] £ºGame Server Init
+2024-04-13 15:44:14,436 [1] [INFO ] [GameServer] £ºDataManager > DataManager()
+2024-04-13 15:44:15,223 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:1:²¼ÁÖÕò
+2024-04-13 15:44:15,231 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:2:ÂäÈÕÉ­ÁÖ
+2024-04-13 15:44:15,233 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:3:Ò°Íâ2
+2024-04-13 15:44:15,234 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:4:ÂäÈÕ¿Õ¼ä
+2024-04-13 15:44:15,234 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:5:¾º¼¼³¡
+2024-04-13 15:44:16,130 [1] [WARN ] [GameServer] £ºStarting Listener...
+2024-04-13 15:44:16,142 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:44:16,142 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:44:16,142 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:44:16,142 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:44:16,143 [17] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:44:16,142 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:44:16,143 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:44:16,144 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:44:16,246 [1] [WARN ] [GameServer] £ºNetService Started
+2024-04-13 15:44:42,445 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:60059]] Connected
+2024-04-13 15:44:42,562 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:22
+2024-04-13 15:44:42,883 [6] [INFO ] [GameServer] £ºUserLoginRequest: User:user001  Pass:123
+2024-04-13 15:44:48,808 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:8
+2024-04-13 15:44:48,815 [17] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:1:666 Map:1
+2024-04-13 15:44:49,121 [17] [INFO ] [GameServer] £º1:666 GetFriendInfo:3:Ð¡Ð¡
+2024-04-13 15:44:49,129 [17] [INFO ] [GameServer] £ºPostProcess > Character:characterID:1:666
+2024-04-13 15:44:49,161 [17] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:1
+2024-04-13 15:44:49,163 [17] [INFO ] [GameServer] £ºAddCharacter: Map:1 characterId:1
+2024-04-13 15:44:49,164 [17] [INFO ] [GameServer] £ºPostProcess > Character:characterID:1:666
+2024-04-13 15:44:55,078 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:42
+2024-04-13 15:44:55,088 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(5000,4000,820),dir:(98,-19,0),spd:0
+2024-04-13 15:44:55,101 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:47
+2024-04-13 15:44:55,102 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:MoveFwd Entity:(1:pos:(5000,4000,820),dir:(98,-19,0),spd:300
+2024-04-13 15:44:55,164 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:44:55,165 [8] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(5025,3995,820),dir:(93,-37,0),spd:300
+2024-04-13 15:44:55,246 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:44:55,247 [9] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(5050,3985,820),dir:(85,-53,0),spd:300
+2024-04-13 15:44:55,351 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:44:55,352 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(5074,3967,820),dir:(72,-69,0),spd:300
+2024-04-13 15:44:55,431 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:44:55,434 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(5094,3952,820),dir:(59,-81,0),spd:300
+2024-04-13 15:44:55,530 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:44:55,531 [6] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(5112,3928,820),dir:(41,-91,0),spd:300
+2024-04-13 15:44:55,611 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:44:55,612 [17] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(5122,3903,820),dir:(24,-97,0),spd:300
+2024-04-13 15:44:55,724 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:44:55,725 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(5128,3873,820),dir:(4,-100,0),spd:300
+2024-04-13 15:44:55,811 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:44:55,814 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(5128,3848,820),dir:(-14,-99,0),spd:300
+2024-04-13 15:44:55,919 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:44:55,920 [8] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(5122,3818,820),dir:(-33,-94,0),spd:300
+2024-04-13 15:44:56,022 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:44:56,023 [9] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(5108,3783,820),dir:(-49,-87,0),spd:300
+2024-04-13 15:44:57,239 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:44:57,240 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(4962,3491,820),dir:(-64,-77,0),spd:300
+2024-04-13 15:44:57,364 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:44:57,365 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(4938,3459,820),dir:(-78,-63,0),spd:300
+2024-04-13 15:44:57,466 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:44:57,469 [6] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(4914,3441,820),dir:(-89,-45,0),spd:300
+2024-04-13 15:44:57,572 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:44:57,573 [17] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(4890,3429,820),dir:(-96,-26,0),spd:300
+2024-04-13 15:44:57,973 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:44:57,973 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(4770,3405,820),dir:(-90,-43,0),spd:300
+2024-04-13 15:44:59,460 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:44:59,461 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(4350,3185,806),dir:(-90,-43,0),spd:300
+2024-04-13 15:45:01,080 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:45:01,082 [8] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(3908,2974,806),dir:(-90,-43,0),spd:300
+2024-04-13 15:45:02,709 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:45:02,709 [9] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(3471,2765,806),dir:(-90,-43,0),spd:300
+2024-04-13 15:45:02,794 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:45:02,796 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(3441,2753,806),dir:(-97,-26,0),spd:300
+2024-04-13 15:45:04,242 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:45:04,243 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(3006,2666,806),dir:(-100,-8,0),spd:300
+2024-04-13 15:45:05,175 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:45:05,177 [6] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(2745,2617,806),dir:(-100,-8,0),spd:300
+2024-04-13 15:45:06,118 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:45:06,119 [17] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(2460,2617,806),dir:(-100,10,0),spd:300
+2024-04-13 15:45:07,034 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:45:07,036 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(2189,2621,806),dir:(-100,10,0),spd:300
+2024-04-13 15:45:07,673 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:45:07,673 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(1994,2660,806),dir:(-100,-8,0),spd:300
+2024-04-13 15:45:08,949 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:45:08,950 [8] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(1613,2610,807),dir:(-100,-8,0),spd:300
+2024-04-13 15:45:10,842 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:10
+2024-04-13 15:45:10,846 [9] [INFO ] [GameServer] £ºOnMapTeleporter: characterID:1:System.Data.Entity.DynamicProxies.TCharacter_EB8B955922741811C1B1A89DDE0F19623486688B1186D69F9AAD7DAF4584010D TeleporterId:1
+2024-04-13 15:45:10,847 [9] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:1
+2024-04-13 15:45:10,849 [9] [INFO ] [GameServer] £ºSendCharacterLeaveMap To 1:666 :Map:1 Character:1:666
+2024-04-13 15:45:10,849 [9] [INFO ] [GameServer] £ºPostProcess > Character:characterID:1:666
+2024-04-13 15:45:10,852 [9] [INFO ] [GameServer] £ºCharacterEnter: Map:2 characterId:1
+2024-04-13 15:45:10,852 [9] [INFO ] [GameServer] £ºAddCharacter: Map:2 characterId:1
+2024-04-13 15:45:10,853 [9] [INFO ] [GameServer] £ºPostProcess > Character:characterID:1:666
+2024-04-13 15:45:12,883 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:33
+2024-04-13 15:45:12,885 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(2852,3866,6),dir:(100,0,0),spd:300
+2024-04-13 15:45:13,073 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:33
+2024-04-13 15:45:13,075 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(2852,3866,6),dir:(100,0,0),spd:300
+2024-04-13 15:45:13,238 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:33
+2024-04-13 15:45:13,241 [6] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(2852,3866,6),dir:(100,0,0),spd:300
+2024-04-13 15:45:13,318 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:35
+2024-04-13 15:45:13,318 [17] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:MoveFwd Entity:(1:pos:(2872,3866,6),dir:(100,0,0),spd:300
+2024-04-13 15:45:14,144 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:45:14,145 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(3132,3866,6),dir:(98,-18,0),spd:300
+2024-04-13 15:45:14,250 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:45:14,251 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(3162,3860,6),dir:(94,-35,0),spd:300
+2024-04-13 15:45:14,329 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:45:14,330 [8] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(3187,3850,6),dir:(86,-51,0),spd:300
+2024-04-13 15:45:14,431 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:45:14,432 [9] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(3211,3832,6),dir:(76,-65,0),spd:300
+2024-04-13 15:45:14,815 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:45:14,816 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(3303,3763,6),dir:(86,-50,0),spd:300
+2024-04-13 15:45:16,419 [5] [INFO ] [GameServer] £ºMap[2]Spawn[1]:Mon:1001,Lv:1 At Point:1
+2024-04-13 15:45:16,425 [5] [INFO ] [GameServer] £ºMonsterEnter:Map2 monsterId:0
+2024-04-13 15:45:16,426 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:1:666
+2024-04-13 15:45:16,427 [5] [INFO ] [GameServer] £ºMap[2]Spawn[2]:Mon:1002,Lv:1 At Point:2
+2024-04-13 15:45:16,428 [5] [INFO ] [GameServer] £ºMonsterEnter:Map2 monsterId:0
+2024-04-13 15:45:16,428 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:1:666
+2024-04-13 15:45:16,429 [5] [INFO ] [GameServer] £ºMap[2]Spawn[3]:Mon:1003,Lv:1 At Point:3
+2024-04-13 15:45:16,430 [5] [INFO ] [GameServer] £ºMonsterEnter:Map2 monsterId:0
+2024-04-13 15:45:16,431 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:1:666
+2024-04-13 15:45:16,431 [5] [INFO ] [GameServer] £ºMap[2]Spawn[4]:Mon:1005,Lv:1 At Point:4
+2024-04-13 15:45:16,432 [5] [INFO ] [GameServer] £ºMonsterEnter:Map2 monsterId:0
+2024-04-13 15:45:16,432 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:1:666
+2024-04-13 15:45:17,839 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:45:17,840 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(3728,3504,6),dir:(86,-50,0),spd:300
+2024-04-13 15:45:18,020 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:43
+2024-04-13 15:45:18,020 [6] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:Idle Entity:(1:pos:(3784,3462,6),dir:(86,-50,0),spd:0
+2024-04-13 15:45:18,469 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:46
+2024-04-13 15:45:18,470 [17] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:MoveFwd Entity:(1:pos:(3784,3462,6),dir:(86,-50,0),spd:300
+2024-04-13 15:45:18,735 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:45:18,735 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(3848,3414,6),dir:(94,-34,0),spd:300
+2024-04-13 15:45:18,903 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:45:18,904 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(3898,3394,6),dir:(99,-16,0),spd:300
+2024-04-13 15:45:20,074 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:45:20,076 [8] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(4248,3324,6),dir:(94,-34,0),spd:300
+2024-04-13 15:45:20,586 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:43
+2024-04-13 15:45:20,587 [9] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:Idle Entity:(1:pos:(4403,3262,6),dir:(94,-34,0),spd:0
+2024-04-13 15:45:20,652 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:46
+2024-04-13 15:45:20,653 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:MoveFwd Entity:(1:pos:(4403,3262,6),dir:(94,-34,0),spd:300
+2024-04-13 15:45:21,104 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:45:21,105 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(4524,3257,6),dir:(94,-34,0),spd:300
+2024-04-13 15:45:21,791 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:43
+2024-04-13 15:45:21,792 [6] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:Idle Entity:(1:pos:(4734,3173,6),dir:(94,-34,0),spd:0
+2024-04-13 15:45:22,840 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:41
+2024-04-13 15:45:22,841 [17] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(4734,3173,6),dir:(86,-51,0),spd:0
+2024-04-13 15:45:24,302 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:46
+2024-04-13 15:45:24,303 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:MoveFwd Entity:(1:pos:(4734,3173,6),dir:(86,-51,0),spd:300
+2024-04-13 15:45:24,618 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:45:24,620 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(4814,3113,6),dir:(75,-66,0),spd:300
+2024-04-13 15:45:24,729 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:45:24,731 [8] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(4842,3092,6),dir:(61,-79,0),spd:300
+2024-04-13 15:45:24,837 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:45:24,838 [9] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(4860,3068,6),dir:(45,-89,0),spd:300
+2024-04-13 15:45:24,971 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:45:24,972 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:None Entity:(1:pos:(4876,3036,6),dir:(28,-96,0),spd:300
+2024-04-13 15:45:25,140 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:43
+2024-04-13 15:45:25,140 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:1:666 Entity.Id1 Evt:Idle Entity:(1:pos:(4886,2986,6),dir:(28,-96,0),spd:0
+2024-04-13 15:45:25,164 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:19
+2024-04-13 15:45:25,171 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:101 caster;1 target:4 pos:SkillBridge.Message.NVector3
+2024-04-13 15:45:25,175 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleManager:skill:101 caster:1 target:4 pos:(0,0,0)
+2024-04-13 15:45:25,238 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2024-04-13 15:45:25,247 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:1:666
+2024-04-13 15:45:25,584 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0]
+2024-04-13 15:45:25,587 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0] IsBullet:[False]
+2024-04-13 15:45:25,592 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2024-04-13 15:45:25,598 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:1:666
+2024-04-13 15:45:25,724 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2024-04-13 15:45:26,961 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:19
+2024-04-13 15:45:26,963 [17] [INFO ] [GameServer] £ºOnSkillCast: skill:102 caster;1 target:4 pos:SkillBridge.Message.NVector3
+2024-04-13 15:45:26,964 [17] [INFO ] [GameServer] £ºBattleManager.ProcessBattleManager:skill:102 caster:1 target:4 pos:(0,0,0)
+2024-04-13 15:45:27,028 [5] [INFO ] [GameServer] £ºSkill[³å·æÍ»´Ì].DoHit[0]
+2024-04-13 15:45:27,029 [5] [INFO ] [GameServer] £ºSkill[³å·æÍ»´Ì].DoHit[0] IsBullet:[False]
+2024-04-13 15:45:27,030 [5] [INFO ] [GameServer] £ºSkill[³å·æÍ»´Ì].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2024-04-13 15:45:27,032 [5] [INFO ] [GameServer] £º[Ð¡¶ñÄ§].AddEffect Stun
+2024-04-13 15:45:27,043 [5] [INFO ] [GameServer] £ºSkill[³å·æÍ»´Ì].Cast Result:[Ok] Status:None
+2024-04-13 15:45:27,047 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:1:666
+2024-04-13 15:45:28,794 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:19
+2024-04-13 15:45:28,795 [13] [INFO ] [GameServer] £ºOnSkillCast: skill:103 caster;1 target:4 pos:SkillBridge.Message.NVector3
+2024-04-13 15:45:28,795 [13] [INFO ] [GameServer] £ºBattleManager.ProcessBattleManager:skill:103 caster:1 target:4 pos:(0,0,0)
+2024-04-13 15:45:28,903 [5] [INFO ] [GameServer] £ºSkill[Ðý·çÕ¶].Cast Result:[Ok] Status:Running
+2024-04-13 15:45:28,904 [5] [INFO ] [GameServer] £ºSkill[Ðý·çÕ¶].DoHit[0]
+2024-04-13 15:45:28,905 [5] [INFO ] [GameServer] £ºSkill[Ðý·çÕ¶].DoHit[0] IsBullet:[False]
+2024-04-13 15:45:28,956 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:19
+2024-04-13 15:45:28,957 [7] [INFO ] [GameServer] £ºOnSkillCast: skill:103 caster;1 target:4 pos:SkillBridge.Message.NVector3
+2024-04-13 15:45:28,958 [7] [INFO ] [GameServer] £ºBattleManager.ProcessBattleManager:skill:103 caster:1 target:4 pos:(0,0,0)
+2024-04-13 15:45:35,814 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:19
+2024-04-13 15:45:35,817 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:103 caster;1 target:4 pos:SkillBridge.Message.NVector3
+2024-04-13 15:45:35,818 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleManager:skill:103 caster:1 target:4 pos:(0,0,0)
+2024-04-13 15:46:13,003 [1] [INFO ] [GameServer] £ºGame Server Init
+2024-04-13 15:46:13,162 [1] [INFO ] [GameServer] £ºDataManager > DataManager()
+2024-04-13 15:46:13,524 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:1:²¼ÁÖÕò
+2024-04-13 15:46:13,531 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:2:ÂäÈÕÉ­ÁÖ
+2024-04-13 15:46:13,534 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:3:Ò°Íâ2
+2024-04-13 15:46:13,534 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:4:ÂäÈÕ¿Õ¼ä
+2024-04-13 15:46:13,534 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:5:¾º¼¼³¡
+2024-04-13 15:46:14,073 [1] [WARN ] [GameServer] £ºStarting Listener...
+2024-04-13 15:46:14,080 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:46:14,080 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:46:14,080 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:46:14,080 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:46:14,080 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:46:14,081 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:46:14,083 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:46:14,083 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:46:14,185 [1] [WARN ] [GameServer] £ºNetService Started
+2024-04-13 15:46:20,723 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:60116]] Connected
+2024-04-13 15:46:20,838 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:22
+2024-04-13 15:46:21,138 [6] [INFO ] [GameServer] £ºUserLoginRequest: User:user001  Pass:123
+2024-04-13 15:46:25,595 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:10
+2024-04-13 15:46:25,601 [8] [INFO ] [GameServer] £ºUserGameEnterRequest: characterID:5:888 Map:1
+2024-04-13 15:46:25,891 [8] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:46:25,920 [8] [INFO ] [GameServer] £ºCharacterEnter: Map:1 characterId:5
+2024-04-13 15:46:25,922 [8] [INFO ] [GameServer] £ºAddCharacter: Map:1 characterId:5
+2024-04-13 15:46:25,924 [8] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:46:36,876 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:42
+2024-04-13 15:46:36,887 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5000,4000,820),dir:(98,-19,0),spd:0
+2024-04-13 15:46:36,947 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:47
+2024-04-13 15:46:36,948 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:MoveFwd Entity:(1:pos:(5000,4000,820),dir:(98,-19,0),spd:300
+2024-04-13 15:46:36,969 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:46:36,970 [11] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5010,3998,820),dir:(93,-37,0),spd:300
+2024-04-13 15:46:37,068 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:46:37,070 [9] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5040,3986,820),dir:(83,-55,0),spd:300
+2024-04-13 15:46:37,152 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:46:37,153 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5060,3971,820),dir:(72,-69,0),spd:300
+2024-04-13 15:46:37,253 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:46:37,254 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5084,3953,820),dir:(56,-83,0),spd:300
+2024-04-13 15:46:37,352 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:46:37,353 [6] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5102,3929,820),dir:(38,-93,0),spd:300
+2024-04-13 15:46:37,451 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:46:37,453 [8] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5114,3899,820),dir:(18,-98,0),spd:300
+2024-04-13 15:46:37,536 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:45
+2024-04-13 15:46:37,537 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5119,3874,820),dir:(1,-100,0),spd:300
+2024-04-13 15:46:37,630 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:46:37,631 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5119,3849,820),dir:(-17,-99,0),spd:300
+2024-04-13 15:46:37,731 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:46:37,733 [11] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5113,3819,820),dir:(-37,-93,0),spd:300
+2024-04-13 15:46:37,835 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:46:37,837 [9] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5101,3789,820),dir:(-55,-83,0),spd:300
+2024-04-13 15:46:37,925 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:46:37,926 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5083,3765,820),dir:(-71,-71,0),spd:300
+2024-04-13 15:46:38,071 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:46:38,072 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5047,3729,820),dir:(-83,-56,0),spd:300
+2024-04-13 15:46:38,975 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:46:38,976 [6] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4831,3567,820),dir:(-72,-70,0),spd:300
+2024-04-13 15:46:39,940 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:46:39,941 [8] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4623,3383,806),dir:(-72,-70,0),spd:300
+2024-04-13 15:46:40,509 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:46:40,510 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4483,3243,806),dir:(-83,-56,0),spd:300
+2024-04-13 15:46:40,727 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:46:40,728 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4431,3204,806),dir:(-92,-40,0),spd:300
+2024-04-13 15:46:42,217 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:46:42,219 [11] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4033,3045,806),dir:(-92,-40,0),spd:300
+2024-04-13 15:46:44,405 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:46:44,406 [9] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(3429,2783,806),dir:(-92,-40,0),spd:300
+2024-04-13 15:46:44,807 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:46:44,808 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(3309,2735,806),dir:(-98,-22,0),spd:300
+2024-04-13 15:46:46,205 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:46:46,206 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(2889,2651,806),dir:(-100,-3,0),spd:300
+2024-04-13 15:46:50,507 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:46:50,508 [6] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(1618,2603,807),dir:(-100,-3,0),spd:300
+2024-04-13 15:46:52,416 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:10
+2024-04-13 15:46:52,419 [8] [INFO ] [GameServer] £ºOnMapTeleporter: characterID:5:System.Data.Entity.DynamicProxies.TCharacter_EB8B955922741811C1B1A89DDE0F19623486688B1186D69F9AAD7DAF4584010D TeleporterId:1
+2024-04-13 15:46:52,422 [8] [INFO ] [GameServer] £ºCharacterLeave: Map:1 characterId:5
+2024-04-13 15:46:52,424 [8] [INFO ] [GameServer] £ºSendCharacterLeaveMap To 5:888 :Map:1 Character:5:888
+2024-04-13 15:46:52,425 [8] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:46:52,427 [8] [INFO ] [GameServer] £ºCharacterEnter: Map:2 characterId:5
+2024-04-13 15:46:52,428 [8] [INFO ] [GameServer] £ºAddCharacter: Map:2 characterId:5
+2024-04-13 15:46:52,428 [8] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:46:53,734 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:33
+2024-04-13 15:46:53,735 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(2894,3869,6),dir:(100,0,0),spd:300
+2024-04-13 15:46:53,941 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:33
+2024-04-13 15:46:53,942 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(2894,3869,6),dir:(100,0,0),spd:300
+2024-04-13 15:46:53,987 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:35
+2024-04-13 15:46:53,988 [11] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:MoveFwd Entity:(1:pos:(2909,3869,6),dir:(100,0,0),spd:300
+2024-04-13 15:46:56,364 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:46:56,365 [9] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(3629,3869,6),dir:(98,-18,0),spd:300
+2024-04-13 15:46:56,545 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:46:56,546 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(3684,3858,6),dir:(94,-35,0),spd:300
+2024-04-13 15:46:56,663 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:46:56,663 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(3719,3844,6),dir:(85,-52,0),spd:300
+2024-04-13 15:46:57,948 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:46:57,949 [6] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4027,3613,6),dir:(93,-36,0),spd:300
+2024-04-13 15:46:58,476 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:46:58,478 [8] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4182,3551,6),dir:(98,-18,0),spd:300
+2024-04-13 15:46:58,963 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:46:58,964 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4327,3522,6),dir:(93,-36,0),spd:300
+2024-04-13 15:46:59,055 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:46:59,056 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4357,3510,6),dir:(85,-53,0),spd:300
+2024-04-13 15:46:59,187 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:46:59,188 [11] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4389,3486,6),dir:(74,-68,0),spd:300
+2024-04-13 15:46:59,636 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:46:59,637 [9] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4497,3405,6),dir:(85,-53,0),spd:300
+2024-04-13 15:46:59,765 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:46:59,766 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4529,3381,6),dir:(93,-36,0),spd:300
+2024-04-13 15:46:59,871 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:46:59,871 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4559,3369,6),dir:(99,-17,0),spd:300
+2024-04-13 15:47:00,003 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:35
+2024-04-13 15:47:00,004 [6] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4599,3361,6),dir:(100,2,0),spd:300
+2024-04-13 15:47:00,827 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:47:00,828 [8] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4844,3361,6),dir:(99,-17,0),spd:300
+2024-04-13 15:47:00,841 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:47:00,842 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4833,3408,6),dir:(99,-17,0),spd:300
+2024-04-13 15:47:00,918 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:47:00,919 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4858,3403,6),dir:(93,-36,0),spd:300
+2024-04-13 15:47:01,024 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:47:01,026 [11] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4888,3391,6),dir:(84,-55,0),spd:300
+2024-04-13 15:47:01,137 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:44
+2024-04-13 15:47:01,138 [9] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4916,3370,6),dir:(72,-69,0),spd:300
+2024-04-13 15:47:01,536 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:43
+2024-04-13 15:47:01,537 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:Idle Entity:(1:pos:(5012,3298,6),dir:(72,-69,0),spd:0
+2024-04-13 15:47:02,609 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:46
+2024-04-13 15:47:02,611 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:MoveFwd Entity:(1:pos:(5012,3298,6),dir:(72,-69,0),spd:300
+2024-04-13 15:47:02,943 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:43
+2024-04-13 15:47:02,944 [6] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:Idle Entity:(1:pos:(5092,3238,6),dir:(72,-69,0),spd:0
+2024-04-13 15:47:03,156 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:41
+2024-04-13 15:47:03,157 [8] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(84,-54,0),spd:0
+2024-04-13 15:47:03,264 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:41
+2024-04-13 15:47:03,266 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(93,-37,0),spd:0
+2024-04-13 15:47:03,428 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:41
+2024-04-13 15:47:03,429 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(98,-20,0),spd:0
+2024-04-13 15:47:04,324 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:41
+2024-04-13 15:47:04,326 [11] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(100,-2,0),spd:0
+2024-04-13 15:47:04,429 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:32
+2024-04-13 15:47:04,430 [9] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(99,16,0),spd:0
+2024-04-13 15:47:04,548 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:32
+2024-04-13 15:47:04,549 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(93,36,0),spd:0
+2024-04-13 15:47:04,633 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:32
+2024-04-13 15:47:04,634 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(84,55,0),spd:0
+2024-04-13 15:47:04,730 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:32
+2024-04-13 15:47:04,732 [6] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(71,71,0),spd:0
+2024-04-13 15:47:05,128 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:32
+2024-04-13 15:47:05,129 [8] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(83,56,0),spd:0
+2024-04-13 15:47:05,241 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:32
+2024-04-13 15:47:05,242 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(92,38,0),spd:0
+2024-04-13 15:47:05,313 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:32
+2024-04-13 15:47:05,314 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(98,21,0),spd:0
+2024-04-13 15:47:05,424 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:32
+2024-04-13 15:47:05,426 [11] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(100,1,0),spd:0
+2024-04-13 15:47:05,534 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:41
+2024-04-13 15:47:05,536 [9] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(99,-17,0),spd:0
+2024-04-13 15:47:05,603 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:41
+2024-04-13 15:47:05,604 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(93,-37,0),spd:0
+2024-04-13 15:47:05,697 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:41
+2024-04-13 15:47:05,698 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(83,-55,0),spd:0
+2024-04-13 15:47:05,782 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:41
+2024-04-13 15:47:05,784 [6] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(72,-69,0),spd:0
+2024-04-13 15:47:05,886 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:41
+2024-04-13 15:47:05,887 [8] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(56,-83,0),spd:0
+2024-04-13 15:47:05,982 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:41
+2024-04-13 15:47:05,984 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(38,-92,0),spd:0
+2024-04-13 15:47:06,079 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:41
+2024-04-13 15:47:06,081 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(19,-98,0),spd:0
+2024-04-13 15:47:06,214 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:41
+2024-04-13 15:47:06,215 [11] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(1,-100,0),spd:0
+2024-04-13 15:47:14,351 [5] [INFO ] [GameServer] £ºMap[2]Spawn[1]:Mon:1001,Lv:1 At Point:1
+2024-04-13 15:47:14,355 [5] [INFO ] [GameServer] £ºMonsterEnter:Map2 monsterId:0
+2024-04-13 15:47:14,356 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:47:14,358 [5] [INFO ] [GameServer] £ºMap[2]Spawn[2]:Mon:1002,Lv:1 At Point:2
+2024-04-13 15:47:14,360 [5] [INFO ] [GameServer] £ºMonsterEnter:Map2 monsterId:0
+2024-04-13 15:47:14,361 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:47:14,362 [5] [INFO ] [GameServer] £ºMap[2]Spawn[3]:Mon:1003,Lv:1 At Point:3
+2024-04-13 15:47:14,363 [5] [INFO ] [GameServer] £ºMonsterEnter:Map2 monsterId:0
+2024-04-13 15:47:14,363 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:47:14,366 [5] [INFO ] [GameServer] £ºMap[2]Spawn[4]:Mon:1005,Lv:1 At Point:4
+2024-04-13 15:47:14,367 [5] [INFO ] [GameServer] £ºMonsterEnter:Map2 monsterId:0
+2024-04-13 15:47:14,368 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:47:23,929 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:20
+2024-04-13 15:47:23,936 [9] [INFO ] [GameServer] £ºOnSkillCast: skill:301 caster;1 target:4 pos:SkillBridge.Message.NVector3
+2024-04-13 15:47:23,938 [9] [INFO ] [GameServer] £ºBattleManager.ProcessBattleManager:skill:301 caster:1 target:4 pos:(0,0,0)
+2024-04-13 15:47:23,955 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].Cast Result:[Ok] Status:Running
+2024-04-13 15:47:23,964 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:47:24,723 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0]
+2024-04-13 15:47:24,724 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§
+2024-04-13 15:47:24,727 [5] [INFO ] [GameServer] £ºBullet[ÆÕÍ¨¹¥»÷].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:489 Time:0.61125
+2024-04-13 15:47:25,271 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].DoHit[0] IsBullet:[True]
+2024-04-13 15:47:25,277 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2024-04-13 15:47:25,279 [5] [INFO ] [GameServer] £ºSkill[ÆÕÍ¨¹¥»÷].UpdateSkill Finish
+2024-04-13 15:47:25,282 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:47:26,622 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:52
+2024-04-13 15:47:26,622 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(-78,-63,2),spd:0
+2024-04-13 15:47:26,728 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:52
+2024-04-13 15:47:26,729 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(-88,-47,2),spd:0
+2024-04-13 15:47:26,829 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:52
+2024-04-13 15:47:26,829 [6] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(-96,-28,2),spd:0
+2024-04-13 15:47:26,930 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:52
+2024-04-13 15:47:26,931 [8] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5092,3238,6),dir:(-100,-8,2),spd:0
+2024-04-13 15:47:27,187 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:57
+2024-04-13 15:47:27,188 [10] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:MoveFwd Entity:(1:pos:(5092,3238,6),dir:(-100,-8,2),spd:300
+2024-04-13 15:47:27,369 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:55
+2024-04-13 15:47:27,370 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5032,3238,6),dir:(-96,-27,2),spd:300
+2024-04-13 15:47:27,468 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:55
+2024-04-13 15:47:27,469 [11] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(5002,3232,6),dir:(-89,-46,2),spd:300
+2024-04-13 15:47:27,570 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:55
+2024-04-13 15:47:27,572 [9] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4978,3220,6),dir:(-78,-63,2),spd:300
+2024-04-13 15:47:27,707 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:55
+2024-04-13 15:47:27,708 [13] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4946,3196,6),dir:(-66,-76,2),spd:300
+2024-04-13 15:47:27,744 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:54
+2024-04-13 15:47:27,745 [7] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:Idle Entity:(1:pos:(4940,3188,6),dir:(-66,-76,2),spd:0
+2024-04-13 15:47:27,836 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:20
+2024-04-13 15:47:27,836 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:302 caster;1 target:4 pos:SkillBridge.Message.NVector3
+2024-04-13 15:47:27,837 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleManager:skill:302 caster:1 target:4 pos:(0,0,0)
+2024-04-13 15:47:27,916 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].Cast Result:[Ok] Status:Casting
+2024-04-13 15:47:27,918 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:47:28,462 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].UpdateCasting Finish
+2024-04-13 15:47:28,789 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].DoHit[0]
+2024-04-13 15:47:28,789 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§
+2024-04-13 15:47:28,790 [5] [INFO ] [GameServer] £ºBullet[Á÷Ñª¼ý].CastBullet[EFX_Archer_AtkA_B_dandao_prefab] Target:Ð¡¶ñÄ§ Distance:362 Time:0.4525
+2024-04-13 15:47:29,226 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].DoHit[0] IsBullet:[True]
+2024-04-13 15:47:29,226 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].HitTarget[Ð¡¶ñÄ§] Damage:1 Crit:False
+2024-04-13 15:47:29,230 [5] [INFO ] [GameServer] £ºSkill[Á÷Ñª¼ý].UpdateSkill Finish
+2024-04-13 15:47:29,234 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:47:30,225 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2024-04-13 15:47:30,226 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:47:31,209 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2024-04-13 15:47:31,209 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:47:32,187 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2024-04-13 15:47:32,188 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:47:32,198 [16] [WARN ] [GameServer] £ºClient[] DataReceived Len:28
+2024-04-13 15:47:32,199 [8] [INFO ] [GameServer] £ºOnSkillCast: skill:303 caster;1 target:4 pos:SkillBridge.Message.NVector3
+2024-04-13 15:47:32,199 [8] [INFO ] [GameServer] £ºBattleManager.ProcessBattleManager:skill:303 caster:1 target:4 pos:(4801,2968,7)
+2024-04-13 15:47:32,294 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].Cast Result:[Ok] Status:Casting
+2024-04-13 15:47:32,296 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:47:33,162 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2024-04-13 15:47:33,162 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:47:33,600 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].UpdateCasting Finish
+2024-04-13 15:47:34,141 [5] [INFO ] [GameServer] £ºBuff[Á÷Ñª].DoBuffDamage[Ð¡¶ñÄ§] Damage:1 Crit:False
+2024-04-13 15:47:34,144 [5] [INFO ] [GameServer] £ºPostProcess > Character:characterID:5:888
+2024-04-13 15:47:34,466 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].DoHit[0]
+2024-04-13 15:47:34,468 [5] [INFO ] [GameServer] £ºSkill[¶¾¼ýÓê].DoHit[0] IsBullet:[False]
+2024-04-13 15:47:39,150 [17] [WARN ] [GameServer] £ºClient[] DataReceived Len:28
+2024-04-13 15:47:39,151 [6] [INFO ] [GameServer] £ºOnSkillCast: skill:304 caster;1 target:4 pos:SkillBridge.Message.NVector3
+2024-04-13 15:47:39,152 [16] [WARN ] [GameServer] £ºClient[] DataReceived Len:197
+2024-04-13 15:47:39,152 [6] [INFO ] [GameServer] £ºBattleManager.ProcessBattleManager:skill:304 caster:1 target:4 pos:(4801,2968,7)
+2024-04-13 15:47:39,155 [9] [INFO ] [GameServer] £ºOnSkillCast: skill:304 caster;1 target:4 pos:SkillBridge.Message.NVector3
+2024-04-13 15:47:39,155 [12] [INFO ] [GameServer] £ºOnMapEntitySync:chracterID:5:888 Entity.Id1 Evt:None Entity:(1:pos:(4940,3188,6),dir:(3,-100,0),spd:0
+2024-04-13 15:47:39,155 [7] [INFO ] [GameServer] £ºOnSkillCast: skill:304 caster;1 target:4 pos:SkillBridge.Message.NVector3
+2024-04-13 15:47:39,155 [9] [INFO ] [GameServer] £ºBattleManager.ProcessBattleManager:skill:304 caster:1 target:4 pos:(4801,2968,7)
+2024-04-13 15:47:39,156 [7] [INFO ] [GameServer] £ºBattleManager.ProcessBattleManager:skill:304 caster:1 target:4 pos:(4801,2968,7)
+2024-04-13 15:47:39,155 [10] [INFO ] [GameServer] £ºOnSkillCast: skill:304 caster;1 target:4 pos:SkillBridge.Message.NVector3
+2024-04-13 15:47:39,157 [11] [WARN ] [GameServer] £ºMessageDistribute thread end
+2024-04-13 15:47:39,159 [10] [INFO ] [GameServer] £ºBattleManager.ProcessBattleManager:skill:304 caster:1 target:4 pos:(4801,2968,7)
+2024-04-13 15:48:06,978 [1] [INFO ] [GameServer] £ºGame Server Init
+2024-04-13 15:48:07,108 [1] [INFO ] [GameServer] £ºDataManager > DataManager()
+2024-04-13 15:48:07,415 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:1:²¼ÁÖÕò
+2024-04-13 15:48:07,421 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:2:ÂäÈÕÉ­ÁÖ
+2024-04-13 15:48:07,422 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:3:Ò°Íâ2
+2024-04-13 15:48:07,422 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:4:ÂäÈÕ¿Õ¼ä
+2024-04-13 15:48:07,422 [1] [INFO ] [GameServer] £ºMapManager.Init > Map:5:¾º¼¼³¡
+2024-04-13 15:48:07,908 [1] [WARN ] [GameServer] £ºStarting Listener...
+2024-04-13 15:48:07,914 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:48:07,914 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:48:07,914 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:48:07,914 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:48:07,914 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:48:07,914 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:48:07,914 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:48:07,914 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-04-13 15:48:08,028 [1] [WARN ] [GameServer] £ºNetService Started
+2024-04-13 15:49:08,179 [5] [INFO ] [GameServer] £ºMap[2]Spawn[1]:Mon:1001,Lv:1 At Point:1
+2024-04-13 15:49:08,197 [5] [INFO ] [GameServer] £ºMonsterEnter:Map2 monsterId:0
+2024-04-13 15:49:08,197 [5] [INFO ] [GameServer] £ºMap[2]Spawn[2]:Mon:1002,Lv:1 At Point:2
+2024-04-13 15:49:08,197 [5] [INFO ] [GameServer] £ºMonsterEnter:Map2 monsterId:0
+2024-04-13 15:49:08,198 [5] [INFO ] [GameServer] £ºMap[2]Spawn[3]:Mon:1003,Lv:1 At Point:3
+2024-04-13 15:49:08,198 [5] [INFO ] [GameServer] £ºMonsterEnter:Map2 monsterId:0
+2024-04-13 15:49:08,198 [5] [INFO ] [GameServer] £ºMap[2]Spawn[4]:Mon:1005,Lv:1 At Point:4
+2024-04-13 15:49:08,199 [5] [INFO ] [GameServer] £ºMonsterEnter:Map2 monsterId:0

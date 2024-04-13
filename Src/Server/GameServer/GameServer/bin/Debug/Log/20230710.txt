@@ -1,0 +1,49 @@
+
+2023-07-10 19:02:56,079 [1] [INFO ] [GameServer] ：Game Server Init
+2023-07-10 19:02:56,709 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2023-07-10 19:02:56,994 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:奥特兰
+2023-07-10 19:02:56,996 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:野外1
+2023-07-10 19:02:56,996 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2023-07-10 19:02:56,996 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2023-07-10 19:02:56,997 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-07-10 19:02:57,056 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:02:57,056 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:02:57,056 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:02:57,056 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:02:57,056 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:02:57,056 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:02:57,056 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:02:57,084 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:02:57,115 [1] [WARN ] [GameServer] ：NetService Started
+2023-07-10 19:12:58,699 [1] [INFO ] [GameServer] ：Game Server Init
+2023-07-10 19:12:58,840 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2023-07-10 19:12:58,958 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:奥特兰
+2023-07-10 19:12:58,959 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:野外1
+2023-07-10 19:12:58,959 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2023-07-10 19:12:58,959 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2023-07-10 19:12:58,960 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-07-10 19:12:58,967 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:12:58,967 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:12:58,967 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:12:58,969 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:12:58,969 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:12:59,005 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:12:59,005 [17] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:12:59,005 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 19:12:59,064 [1] [WARN ] [GameServer] ：NetService Started
+2023-07-10 20:19:55,842 [1] [INFO ] [GameServer] ：Game Server Init
+2023-07-10 20:19:56,827 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2023-07-10 20:19:57,058 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:奥特兰
+2023-07-10 20:19:57,061 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:野外1
+2023-07-10 20:19:57,061 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2023-07-10 20:19:57,061 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2023-07-10 20:19:57,062 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-07-10 20:19:57,084 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 20:19:57,084 [20] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 20:19:57,084 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 20:19:57,085 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 20:19:57,086 [19] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 20:19:57,089 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 20:19:57,093 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 20:19:57,093 [17] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-07-10 20:19:57,169 [1] [WARN ] [GameServer] ：NetService Started
