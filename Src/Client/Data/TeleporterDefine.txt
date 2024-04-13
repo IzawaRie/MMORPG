@@ -1,0 +1,190 @@
+{
+  "1": {
+    "ID": 1,
+    "Name": "主城->野外",
+    "MapID": 1,
+    "LinkTo": 6,
+    "Descript": null,
+    "Position": {
+      "X": 831,
+      "Y": 2603,
+      "Z": 863
+    },
+    "Direction": {
+      "X": 0,
+      "Y": 100,
+      "Z": 0
+    }
+  },
+  "2": {
+    "ID": 2,
+    "Name": "主城->副本",
+    "MapID": 1,
+    "LinkTo": 8,
+    "Descript": null,
+    "Position": {
+      "X": 7184,
+      "Y": 2603,
+      "Z": 780
+    },
+    "Direction": {
+      "X": 0,
+      "Y": 100,
+      "Z": 0
+    }
+  },
+  "3": {
+    "ID": 3,
+    "Name": "主城传入点1",
+    "MapID": 1,
+    "LinkTo": 0,
+    "Descript": null,
+    "Position": {
+      "X": 1544,
+      "Y": 2553,
+      "Z": 824
+    },
+    "Direction": {
+      "X": 100,
+      "Y": 0,
+      "Z": 0
+    }
+  },
+  "4": {
+    "ID": 4,
+    "Name": "出城传入点2",
+    "MapID": 1,
+    "LinkTo": 0,
+    "Descript": null,
+    "Position": {
+      "X": 6494,
+      "Y": 2580,
+      "Z": 824
+    },
+    "Direction": {
+      "X": -100,
+      "Y": 0,
+      "Z": 0
+    }
+  },
+  "5": {
+    "ID": 5,
+    "Name": "野外->主城",
+    "MapID": 2,
+    "LinkTo": 3,
+    "Descript": null,
+    "Position": {
+      "X": 2109,
+      "Y": 3916,
+      "Z": 297
+    },
+    "Direction": {
+      "X": 0,
+      "Y": 100,
+      "Z": 0
+    }
+  },
+  "6": {
+    "ID": 6,
+    "Name": "野外传入点",
+    "MapID": 2,
+    "LinkTo": 0,
+    "Descript": null,
+    "Position": {
+      "X": 2822,
+      "Y": 3866,
+      "Z": -26
+    },
+    "Direction": {
+      "X": 100,
+      "Y": 0,
+      "Z": 0
+    }
+  },
+  "7": {
+    "ID": 7,
+    "Name": "副本->主城",
+    "MapID": 4,
+    "LinkTo": 4,
+    "Descript": null,
+    "Position": null,
+    "Direction": null
+  },
+  "8": {
+    "ID": 8,
+    "Name": "副本传入点",
+    "MapID": 4,
+    "LinkTo": 0,
+    "Descript": null,
+    "Position": null,
+    "Direction": null
+  },
+  "9": {
+    "ID": 9,
+    "Name": "竞技场复活点A",
+    "MapID": 5,
+    "LinkTo": 0,
+    "Descript": null,
+    "Position": {
+      "X": -2073,
+      "Y": 0,
+      "Z": 2671
+    },
+    "Direction": {
+      "X": 100,
+      "Y": 0,
+      "Z": 0
+    }
+  },
+  "10": {
+    "ID": 10,
+    "Name": "竞技场复活点B",
+    "MapID": 5,
+    "LinkTo": 0,
+    "Descript": null,
+    "Position": {
+      "X": 2043,
+      "Y": 9,
+      "Z": 2671
+    },
+    "Direction": {
+      "X": -100,
+      "Y": -2,
+      "Z": 0
+    }
+  },
+  "11": {
+    "ID": 11,
+    "Name": "副本->主城",
+    "MapID": 4,
+    "LinkTo": 4,
+    "Descript": null,
+    "Position": {
+      "X": -2397,
+      "Y": 2399,
+      "Z": 132
+    },
+    "Direction": {
+      "X": 72,
+      "Y": -69,
+      "Z": 0
+    }
+  },
+  "12": {
+    "ID": 12,
+    "Name": "副本传入点",
+    "MapID": 4,
+    "LinkTo": 0,
+    "Descript": null,
+    "Position": {
+      "X": 1945,
+      "Y": 936,
+      "Z": 16
+    },
+    "Direction": {
+      "X": -68,
+      "Y": -73,
+      "Z": 0
+    }
+  }
+}
